@@ -70,3 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## JSX 문법
+
+React.createElement(`생성되어야하는 엘리먼트`, 값, `다음에 올 엘리먼트`);
+Component의 경우 해당 Component를 넣어주고 값의 자리에 props을 보내주어야 함.
